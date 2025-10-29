@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GigasProgramante)](https://github.com/GigasProgramante/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <!--
 **GigasProgramante/GigasProgramante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
